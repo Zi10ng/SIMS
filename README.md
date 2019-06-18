@@ -8,6 +8,9 @@
 * 可以通过IDE重新编译，不过还是那句话**需要导入两个jar包**
 * 也可以通过命令行运行out目录里的`.class`文件，命令是 `java -classpath E:\SIMS\out\production\SIMS;E:\..自己jar包的位置..\jar\jfreechart-1.0.2.jar;E:\..自己jar包的位置..\jar\jcommon-1.0.21.jar view.LoginRun`
 * view包里的loginRun.class是可运行的
+##### 登录
+* 通过root登录，密码是123456
+
 ### 功能
 
 ##### 安全
@@ -67,6 +70,7 @@
 * 成绩分析
   * 系统自动给出各个学生的GPA，并按照GPA由由高到低排序
   * 有专门的各个班级成绩分析系统的集成
+  
 
 #### 收获
 - 最遗憾的是在写程序之前没有看设计模式，只是在有了一点思路就开始写，然后最后随着思路的不断成熟，程序不断重构，难过
